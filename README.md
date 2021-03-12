@@ -1,5 +1,5 @@
 # jawm - Just Another Window Manager
-This is a student exercise how to build a window manager from ground up.
+This is a student project how to build a window manager from ground up.
 
 ## Targets:
 1. Learn how to program a window manager from ground up
